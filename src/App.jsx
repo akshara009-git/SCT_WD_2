@@ -137,8 +137,6 @@ function App() {
       <div className="flex justify-between items-center w-full max-w-md mb-8">
 
         <h1 className="text-3xl md:text-5xl font-bold text-cyan-400">
-          AKSHARA'S
-          <br />
           CALCULATOR
         </h1>
 
